@@ -12,7 +12,7 @@ Stats:
 
 Components:
   Dashboard: I used an MVC framework because that's what I am learning in school. The view is a home page with the most current stock recommendations along with their     current progression along the average TTM. This will allow someone to hypothetically get in on a trade as soon as possible and understand how much they can expect to gain.
-  Database: I downloaded every entry from the OpenInsider website based on X project from GitHub into a CSV file, and then formatted it in SQL using SMSS. Then I exported it to Excel where I cleaned the data to only include my desired search criteria, which is every purchase of 500k or more with a lag (gap between trade and filing date) of 3 or less and a Ticker price o f $5-$50, and then the following month of yahoo finance data. This filter shrinked the data from roughly 600,000 rows to 16600.
+  Database: I downloaded every entry from the OpenInsider website based on X project from GitHub into a CSV file, and then formatted it in SQL using SSMS. Then I exported it to Excel where I cleaned the data to only include my desired search criteria, which is every purchase of 500k or more with a lag (gap between trade and filing date) of 3 or less and a Ticker price o f $5-$50, and then the following month of yahoo finance data. This filter shrinked the data from roughly 600,000 rows to 16600.
   Python: I had to connect a python script to a button in excel to scrape the YF data. This resulted in a great deal of shrinkage with many of these companies being delisted or not having sufficient data (16600->)
   IBKR: For this exercise, I connected the MVC recommended stocks to my paper money IBKR account to automatically trade for me. I did this because I feel like there is more profit to be gained when a stock hits its presumed high while also being able to manually interupt the algorithm and trade at any time. By the way, this is very effective if your portfolio is vastly limited to the PDT rule for portfolios with equity < 25k.
 
@@ -28,5 +28,17 @@ Ultimately the results for the backtest were conclusive/inconclusive with the fo
   Trade win ratio:
 
 Instructions:
+  Step 1: Downloads 
+    Docker: https://docs.docker.com/desktop/install/windows-install/ 
+    Excel: https://www.microsoft.com/en-us/microsoft-365/excel?ocid=ORSEARCH_Bing&msockid=3a9e1e68edb5661f28f30a14ece767f7 
+    SSMS: https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16&redirectedfrom=MSDN
+    VSCode (Blue): https://code.visualstudio.com/Download
+    Visual Studio 2022 (Community Version) (Purple): https://visualstudio.microsoft.com/downloads/
+  Step 2: Set up
+    Docker:
+    Excel:
+    SSMS:
+    VSCode:
+    Visual Studio:
 
 Notable Findings:
