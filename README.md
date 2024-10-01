@@ -34,6 +34,7 @@ Instructions:
     SSMS: https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16&redirectedfrom=MSDN
     VSCode (Blue): https://code.visualstudio.com/Download
     Visual Studio 2022 (Community Version) (Purple): https://visualstudio.microsoft.com/downloads/
+    
   Step 2: Set up
     Docker:
     Excel:
