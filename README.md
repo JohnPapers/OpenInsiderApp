@@ -30,13 +30,21 @@ Notes and Ideas:
 UNDERSTAND RIGHT NOW THAT THIS EXPERIMENT IS A SIMPLE X TO Y RELATIONSHIP (INSIDER PLACES TRADE, STOCK GOES UP)
 Will be leaning heavily in these supplemental data points to further add probability to the success of a given trade:
 -I want to pay special attention to what I call "clusters", or multiple buys of the same stock in a 3-5 day range. In my empirical research, these stocks have the largest jumps the soonest. Here are the 2 most recent clusters (BHVN and LUV):
+
   BHVN:
+  
       <img width="1824" alt="image" src="https://github.com/user-attachments/assets/5bf7e78f-a411-4760-b186-79ba5a059781">
+      
       Total Time: 3 trading days
+      
       ROI: 19.89%
+      
   LUV:
+  
       <img width="1920" alt="image" src="https://github.com/user-attachments/assets/bd4819c9-4e46-433b-82bf-15d8310f2b48">
+      
       Total Time: 1 trading day
+      
       ROI: 7.04%
       
 -Value of the investment with respect to total portfolio value (For instance Bill gates can buy $20 million of shares of a given stock, and I would consider that trade to have less liability than Joe Smith who invests $500k into a stock and it is 0.5 of his total portfolio. Would think this means he is more invested in the trade -> higher likelihood the stock rises over the month long period.)
