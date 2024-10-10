@@ -16,13 +16,21 @@ Components:
 
 Backtest:
 Ultimately the results for the backtest will be conclusive/inconclusive with the following statistics:
+
   AVG Return:
+  
   AVG TTM: How long does it take to hit 5%? 10%? Is there a better number?
-  Cumulative Return:
+  
+  Cumulative Return: Total return for the portfolio
+  
   AVG Sharpe: (Return - RFR)/(Standard deviation of Portfolio return)
+  
   Max Draw: greatest dollar amount lost on a given trade
+  
   Max Draw%: greatest % lost on a trade
-  #Trades:
+  
+  #Trades: number of trades
+  
   Trade win ratio: How often was I right with respect to hitting my target in 30 days or less?
 
 
