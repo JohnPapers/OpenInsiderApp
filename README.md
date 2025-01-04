@@ -1,4 +1,4 @@
-# OpenInsiderApp (10/9)
+# OpenInsiderApp (10/9/2024)
 Idea: 
 Large scale purchases of stock shares/options by executives within their own company drives the share price of a given stock up in a given short term window. 
 "Insider Trading" is deemed legal if the information that prompted the purchases is public and the trade is filed within a 2-day window of the trade.
